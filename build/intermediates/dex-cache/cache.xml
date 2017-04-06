@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="92221012f7dc8bf403a743fefb0d79abe142795c">
+        sha1="af982882a75b2b3e46e68fe1504d9ac64a94a067">
         <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3008e8505b2bdb1e2285faeb799692c985ad09c0\classes.dex" />
     </item>
     <item
@@ -18,6 +18,69 @@
         revision="25.0.0"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
         <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e6ef5121ac69b8f4ebc9b8b55f94c3b8ba1e3a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_519f9e73394467d55c275482103cb04ceb636c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9a6b56c00712b55ec6124ce3a7b5ce2868a7f9ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7b0e39d8c27e25124861cd565edf08c216246d4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ccac7e11bb1ee46aab422d44a5e83afc5c7b8811\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_cad6fcca61f667230f3284f78afdb6db51540789\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_574d94835dd97d5ddcfd5ca7d810fd11646c2d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07a85a24a648a09026258eaa24fb9bd6a792fc1f">
+        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_30595a6ec4d82b02a2660dbcc8d6a743f9c95aab\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,15 +111,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_519f9e73394467d55c275482103cb04ceb636c65\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,48 +120,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9a6b56c00712b55ec6124ce3a7b5ce2868a7f9ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7b0e39d8c27e25124861cd565edf08c216246d4a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
         <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_497115c850bf02dc36c802df18a801381aabb53a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ccac7e11bb1ee46aab422d44a5e83afc5c7b8811\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_cad6fcca61f667230f3284f78afdb6db51540789\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -129,30 +147,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_574d94835dd97d5ddcfd5ca7d810fd11646c2d80\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b9a4f984fde63ca8b9a9867660fea099d3022604\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="942a2007d25630f698430a8b29a5775a28c413ec">
-        <dex dex="C:\Users\Student\Documents\GitHub\MusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_30595a6ec4d82b02a2660dbcc8d6a743f9c95aab\classes.dex" />
     </item>
 
 </items>

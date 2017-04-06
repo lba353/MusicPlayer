@@ -40,6 +40,7 @@ public class MainSong extends AppCompatActivity {
     private int songNumber;
     private int numOfSongs;
     private SongObject thisSong;
+    private Uri filepath;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,6 +54,7 @@ public class MainSong extends AppCompatActivity {
         //Getting the number of the selected song in the array.
         songNumber = Integer.parseInt( thisIntent.getStringExtra("songMessage"));
         numOfSongs = SongPicker.songList.size();
+        thisSong = SongPicker.songList.get(songNumber);
 
         //Title + Author View Config
         title = (TextView) findViewById(R.id.title);
@@ -91,14 +93,14 @@ public class MainSong extends AppCompatActivity {
             }
         });
 
-        //For starting a new song from the beginning.
-        playNewSong(songNumber);
-
         //Retrieving Specific Song Info
         MediaMetadataRetriever songInfo = new MediaMetadataRetriever();
 
-        Uri filepath= Uri.parse("android.resource://" + getPackageName() + "/" + thisSong.songID);
+        filepath = Uri.fromFile(thisSong.songFile);
         songInfo.setDataSource(this, filepath);
+
+        //For starting a new song from the beginning.
+        playNewSong(songNumber);
 
         //Auto-Play the selected song.
         song.start();
@@ -152,7 +154,8 @@ public class MainSong extends AppCompatActivity {
         }
 
         //Song Config
-        song = MediaPlayer.create(getApplicationContext(), thisSong.songID);
+        filepath = Uri.fromFile(thisSong.songFile);
+        song = MediaPlayer.create(getApplicationContext(), filepath);
         song.seekTo(0);
 
         playSongNow();
